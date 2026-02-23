@@ -1,5 +1,12 @@
 # error-classifier-lib
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/error-classifier-lib/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/error-classifier-lib/actions)
+![License](https://img.shields.io/github/license/yksanjo/error-classifier-lib)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/error-classifier-lib)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/error-classifier-lib)
+
 ## Detailed Description
 
 error-classifier-lib is maintained as an industry-grade software project with production-ready engineering practices.  
